@@ -2,7 +2,7 @@
 
 This repository includes a Python implementation of the experimental results of the following paper:
 
-1) L. F. Toso, L. Ye, J. Anderson (2025). [Learning Stabilizing Policies via an Unstable Subspace Representation](https://github.com/jd-anderson/LTS-unstable-representation/blob/main/LTS-unstable-representation.pdf)
+1) L. F. Toso, L. Ye, J. Anderson (2025). [Learning Stabilizing Policies via an Unstable Subspace Representation](https://github.com/jd-anderson/LTS-unstable-representation/blob/main/LTS.pdf)
 
 ## Instructions
 
